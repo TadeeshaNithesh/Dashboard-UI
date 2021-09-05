@@ -1,3 +1,4 @@
+![Dashboard](https://user-images.githubusercontent.com/89432278/132133439-075c7a98-72f9-425c-9970-94af301d1c6a.png)
 # Dashboard-UI
 This is made by HTML CSS and JS
 
