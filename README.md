@@ -24,7 +24,7 @@ This is made by HTML CSS and JS
 
 ⚽ create a new folder and name it as "Images"(create it on your currently created folder.)
 
-⚽ download al the images in Images folder here.
+⚽ download all the images in Images folder here.
 
 ⚽ save them to your created Images folder.
 
